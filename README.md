@@ -24,9 +24,9 @@ python decoder.py /path/to/message.wav -o decoded.txt
 **For command line argument options and usage**:  
 python decoder.py -help
 
-# What I Did:  
+## What I Did:  
 
-# How it Went:  
+## How it Went:  
 
-# What is Still to be Done:  
+## What is Still to be Done:  
 The extra section of stuff to implement
