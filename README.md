@@ -4,13 +4,13 @@
 Decodes a Bell 103 (answer-side, 300 baud, 8N1) WAV file. Outputs the decoded personal message to a .txt file
 
 
-## Build Instructions/Setup:  
+## Build Instructions/Setup  
 **The following library needs to be installed**:  
 numpy  
   
 Drop .wav file in the same directory as decoder.py  
   
-## Running:  
+## Running  
 
 **Basic usage**:  
 python decoder.py
@@ -24,9 +24,10 @@ python decoder.py /path/to/message.wav -o decoded.txt
 **For command line argument options and usage**:  
 python decoder.py -help
 
-## What I Did:  
+## Reflection  
+**What I Did:**  
 
-## How it Went:  
+**How it Went:**  
 
-## What is Still to be Done:  
+**What is Still to be Done:**  
 The extra section of stuff to implement
