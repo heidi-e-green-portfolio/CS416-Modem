@@ -33,16 +33,17 @@ python decoder.py /path/to/message.wav -o decoded.txt
 **For command line argument options and usage**:  
 python decoder.py --help
 
-# What I Did:  
+# Reflection  
+**What I Did**:    
 I created a decoder that takes in a WAV file as input, decodes the audio into ASCII, then 
 outputs the decoded personal message, and writes it to a text file.
 
-# How it Went:  
+**How it Went**:  
 The process went better than I was expecting. The background information and hints were valuable and 
 especially helpful here. It was pretty challenging at first, but I found it to be an interesting use 
 of math and correspindingly Python's numpy. Additionally, since the signal was pretty perfect (no noise),
 there wasn't any extra filtering or windowing that was necessary.
 
-# What is Still to be Done:  
+**What is Still to be Done**:  
 I didn't get around to the extra section of potential things to implement into this program, so I think
 those would be the next steps
